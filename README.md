@@ -206,4 +206,4 @@ This repository serves as the official landing page for Esse Proxy. The software
 **Get the most recent version of Esse Proxy today!**
 
 ---
-**Last updated:** 2026-11-06 22:50:12 UTC
+**Last updated:** 2026-11-07 02:36:24 UTC
